@@ -1,4 +1,4 @@
-# Project Sentinel: Defence Intelligence Network Simulator
+# Project Citadel: Defence Intelligence Network Simulator
 
 ## Overview
 A Defence Intelligence Network Simulator implemented in Pure C to demonstrate major Data Structures concepts through a realistic military communication network.
