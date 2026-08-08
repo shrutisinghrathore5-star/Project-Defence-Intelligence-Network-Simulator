@@ -8,7 +8,7 @@ A Defence Intelligence Network Simulator implemented in Pure C to demonstrate ma
 | Member | Responsibility |
 |---------|----------------|
 | Shruti Singh (Team Leader) | Graph & Network Engine |
-| ShubhinSaxena (Member 2) | Logistics Engine |
+| Shubhi Saxena (Member 2) | Logistics Engine |
 | Shiwani (Member 3) | Intelligence Database |
 | Shreya (Member 4) | UI & Integration |
 
