@@ -1,3 +1,3 @@
-Owner: Member 2
+Owner: Shubhi Saxena (Member 2)
 
-Status: Under Development
+Status: Done
