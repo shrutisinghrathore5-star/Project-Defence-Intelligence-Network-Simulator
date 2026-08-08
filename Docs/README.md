@@ -31,6 +31,6 @@ A Defence Intelligence Network Simulator implemented in Pure C to demonstrate ma
 ## Current Progress
 
 - ✅ Graph Module Completed
-- ⏳ Logistics Module
+- ✅ Logistics Module Completed
 - ⏳ Database Module
 - ⏳ UI Module
